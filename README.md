@@ -1,4 +1,4 @@
 # HelloGroovy
 ==============
 
-This is the version 1.0 of my very first GIT project
+This is the version 1.1 of my very first GIT project
